@@ -5,3 +5,6 @@ Git tracks changes of filles.
 My stpid boss still prefers SVN.
 checkout file
 ...
+*******
+test
+*******
