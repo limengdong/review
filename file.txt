@@ -4,3 +4,6 @@ there is file.txt.
 fix bug-101.
 fix bug-102
 fix bug-103.
+git git.
+no git.
+git no.
