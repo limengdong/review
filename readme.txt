@@ -12,3 +12,4 @@ Creating a new branch is quick and simple.
 --no-ff
 review git.
 test status
+test branch by master.
