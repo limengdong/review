@@ -1,3 +1,4 @@
 git stash test.
 do something,but do not end.
 there is file.txt.
+fix bug-101.
